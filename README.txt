@@ -12,3 +12,5 @@ This includes everything in the source code distribution.
 BUILD.TXT   : Instruction for how to build nwc2xml.
 HISTORY.TXT : Contains about the nwc2xml change history.
 README.TXT  : This file.
+
+[UPDATE: n9yty - used Claude to build a shim layer to remove Wx dependencies]
